@@ -1,0 +1,14 @@
+[requires]
+python_version = "3.11"
+
+[dev-packages]
+black = "==24.1.1"
+pre-commit = "*"
+psycopg2 = "==2.9.9"
+pymongo = "*"
+
+[packages]
+black = "==24.1.1"
+pre-commit = "*"
+psycopg2 = "==2.9.9"
+pymongo = "*"
